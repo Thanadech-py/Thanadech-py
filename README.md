@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanadech Lapassirikul</h1>
-<h3 align="center">A Programmer and Technichian for Smart Gen Robotics team. 🤖🤖</h3>
+<h2 align="center">A Programmer and Technichian for Smart Gen Robotics team. 🤖🤖</h2>
 <h3 align="left">Experience</h3>
 - Participate in MakeX Challenge Competition 2023 **Team: MakeStyleDieHard**
 
