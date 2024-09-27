@@ -3,20 +3,24 @@
 <h3 align="left">Experience</h3>
 
 - Participate in MakeX Challenge Competition 2023 Team: MakeStyleDieHard
-
-- Participate in Bangmod Hackaton 2024 Team: Hackgineer
-
+  
+- Participate in MakeX Challenge ACT Warm-Up Competition 2024 Team: หมีป๊อกๆ
+  
 - Participate in MakeX Challenge Competition 2024 Team: GravityShift
 
 - Participate in Thailand Open ROS Robotic Competition Team: Aufu Robotics
+  
+- Participate in Bangmod Hackaton 2024 Team: Hackgineer
+
+- Train in RAI Venture 2023 **As school representative 1 in 60 (Online, Onsite)
 
 - Participate in CPU ASEAN GRAND PRIX YOUTH ROBOTICS & ESPORTS COMPETITION [In KTIS Gatering Robot] (In KTIS Gatering Robot)
 
 - Train in Robot AI and Coding (RAC) [Online Trained]
 
-- Train in RAI Venture 2023 **As school representative 1 in 60 (Online, Onsite)
 
-- Participate in MakeX Challenge ACT Warm-Up Competition 2024 Team: หมีป๊อกๆ
+
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
