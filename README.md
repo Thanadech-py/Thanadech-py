@@ -7,6 +7,7 @@
 - Participate in MakeX Challenge ACT Warm-Up Competition 2024 Team: หมีป๊อกๆ
   
 - Participate in MakeX Challenge Competition 2024 Team: GravityShift
+  - (Excelllent Presentation Award)
 
 - Participate in Thailand Open ROS Robotic Competition Team: Aufu Robotics
   
