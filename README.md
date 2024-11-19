@@ -19,6 +19,16 @@
 
 - Train in Robot AI and Coding (RAC) [Online Trained]
 
+<h3 align="left"> Works and Research </h3>
+
+- [Arduino-Project](https://github.com/Thanadech-py/Arduino-Project)
+
+- [MakeX Chanllenge 2024 Team:GravityShift](https://github.com/Thanadech-py/MakeX-2024-GravityShift)
+
+- [MakeX-Tutorials](https://github.com/Thanadech-py/MakeX-Tutorials)
+
+- [Warehouse-website (School Project)](https://github.com/Thanadech-py/Warehouse-website)
+
 
 
 
