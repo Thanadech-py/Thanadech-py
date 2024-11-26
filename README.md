@@ -13,11 +13,13 @@
   
 - Participate in Bangmod Hackaton 2024 Team: Hackgineer
 
-- Train in RAI Venture 2023 **As school representative 1 in 60 (Online, Onsite)
+- Train in RAI Venture 2023 **As school representative 1 in 60
+  - (Online, Onsite)
 
 - Participate in CPU ASEAN GRAND PRIX YOUTH ROBOTICS & ESPORTS COMPETITION [In KTIS Gatering Robot] (In KTIS Gatering Robot)
 
-- Train in Robot AI and Coding (RAC) [Online Trained]
+- Train in Robot AI and Coding (RAC)
+    - [Online Trained]
 
 <h3 align="left"> Works and Research </h3>
 
