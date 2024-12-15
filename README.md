@@ -21,6 +21,10 @@
 - Train in Robot AI and Coding (RAC)
     - [Online Trained]
 
+- Participate in Beginner RMRC (Arduino Education Day 2024)
+    - (2nd Runner-Up)
+    - (Best in Class: Odstacles)
+
 <h3 align="left"> Works and Research </h3>
 
 - [Arduino-Project](https://github.com/Thanadech-py/Arduino-Project)
