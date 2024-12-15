@@ -22,8 +22,9 @@
     - [Online Trained]
 
 - Participate in Beginner RMRC (Arduino Education Day 2024)
-    - (2nd Runner-Up)
-    - (Best in Class: Odstacles)
+    - (Best in Class: Odstacles 🥇🥇)
+    - (2nd Runner-Up 🥈🥈)
+    
 
 <h3 align="left"> Works and Research </h3>
 
