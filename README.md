@@ -16,7 +16,7 @@
 - Train in RAI Venture 2023 **As school representative 1 in 60
   - (Online, Onsite)
 
-- Participate in CPU ASEAN GRAND PRIX YOUTH ROBOTICS & ESPORTS COMPETITION [In KTIS Gatering Robot] (In KTIS Gatering Robot)
+- Participate in CPU ASEAN GRAND PRIX YOUTH ROBOTICS & ESPORTS COMPETITION [In KTIS Gatering Robot]
 
 - Train in Robot AI and Coding (RAC)
     - [Online Trained]
@@ -24,6 +24,8 @@
 - Participate in Beginner RMRC (Arduino Education Day 2024)
     - (Best in Class: Odstacles 🥇🥇)
     - (2nd Runner-Up 🥈🥈)
+
+- Participate in Thailand Open ROS and Smart Robotics Competition [Rapidly Manufacturing Robot Challenge] 
     
 
 <h3 align="left"> Works and Research </h3>
