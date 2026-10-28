@@ -38,9 +38,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pr,ae,ps,au" alt="Adobe Creative Suite" />
   &nbsp;
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" style="vertical-align: middle;" />
-  </a>
 </p>
 
 #### **AI Models & Assistants**
