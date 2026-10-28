@@ -32,6 +32,14 @@
   <img src="https://skillicons.dev/icons?i=ros,opencv,arduino" alt="Robotics and Embedded" />
 </p>
 
+#### **AI Models & Assistants**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/Antigravity-1A1A1A?style=flat-square&logo=rocket&logoColor=00E5FF" alt="Antigravity" />
+</p>
+
 #### **Web Development & DevOps / Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,linux,docker,git" alt="Web and DevOps" />
