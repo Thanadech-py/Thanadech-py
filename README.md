@@ -82,7 +82,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
   &nbsp;
   <!-- Adobe Audition (ใช้โลโก้กล่องทางการ Au สีเขียว-ม่วง) -->
-  <img src="https://img.shields.io/badge/Au-Adobe%20Audition-00E5FF?style=for-the-badge&logo=adobe&logoColor=white" height="30" alt="Audition" style="vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/audition/audition-original.svg" height="30" alt="Audition" style="vertical-align: middle;"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" alt="Canva" width="40" height="40"/>
 </p>
@@ -96,7 +96,6 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/claude" alt="Claude" width="40" height="40"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/spacex/00E5FF" alt="Antigravity" width="40" height="40"/>
 </p>
 
 #### **Web Development & DevOps / Tools**
