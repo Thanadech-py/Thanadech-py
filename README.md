@@ -89,12 +89,12 @@
 
 #### **AI Models & Assistants**
 <p align="center">
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="40" height="40"/>
   &nbsp;
   <!-- ChatGPT / OpenAI (เปลี่ยนไปใช้ CDN jsdelivr ที่โหลดไว ไม่บล็อก) -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="ChatGPT" width="40" height="40"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/D97706" alt="Claude" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/claude" alt="Claude" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/spacex/00E5FF" alt="Antigravity" width="40" height="40"/>
 </p>
