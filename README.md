@@ -12,6 +12,8 @@
 
 ---
 
+<div align="center">
+
 ### 📌 About Me
 - 🔭 **Current Project:** Building and refining [Learning Hub Webpage UI](https://learing-hub-ui.vercel.app/#/)
 - 🤖 **Focus Areas:** Robotics middleware (ROS 1 / ROS 2), Computer Vision (OpenCV), and Low-level Serial Communication
@@ -23,31 +25,42 @@
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages & Frameworks**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,py,bash,js,html,css" alt="Languages" />
 </p>
 
 #### **Robotics, Vision & Embedded**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ros,opencv,arduino" alt="Robotics and Embedded" />
 </p>
 
 #### **AI Models & Assistants**
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-  <img src="https://img.shields.io/badge/Antigravity-1A1A1A?style=flat-square&logo=rocket&logoColor=00E5FF" alt="Antigravity" />
+<p align="center">
+  <!-- Gemini -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gemini-Dark.svg" width="40" height="40" alt="Gemini" />
+  &nbsp;
+  <!-- Claude -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Claude-Dark.svg" width="40" height="40" alt="Claude" />
+  &nbsp;
+  <!-- ChatGPT -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ChatGPT-Dark.svg" width="40" height="40" alt="ChatGPT" />
+  &nbsp;
+  <!-- Antigravity / Gravity (Custom SVG rounded icon) -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 256 256" style="vertical-align: middle;">
+    <rect width="256" height="256" rx="60" fill="#242938"/>
+    <path d="M128,40 C140,75 170,105 185,120 C195,130 200,145 195,160 C188,180 170,195 150,198 C140,200 135,190 128,180 C121,190 116,200 106,198 C86,195 68,180 61,160 C56,145 61,130 71,120 C86,105 116,75 128,40 Z" fill="#00E5FF"/>
+    <circle cx="128" cy="140" r="14" fill="#242938"/>
+  </svg>
 </p>
 
 #### **Web Development & DevOps / Tools**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,linux,docker,git" alt="Web and DevOps" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanadech-py&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanadech-py&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Thanadech-py&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanadech-py&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+
 </div>
