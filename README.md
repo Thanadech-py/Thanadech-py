@@ -26,42 +26,67 @@
 
 #### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,bash,js,html,css" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
 #### **Robotics, Vision & Embedded**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,opencv,arduino" alt="Robotics and Embedded" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+</p>
+
+#### **CAD & 3D Printing / Slicers**
+<p align="center">
+  <!-- SolidWorks -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SolidWorks.svg" alt="SolidWorks" width="40" height="40"/>
+  &nbsp;
+  <!-- Fusion 360 -->
+  <img src="https://cdn.simpleicons.org/autodesk/0696D7" alt="Autodesk Fusion 360" width="40" height="40"/>
+  &nbsp;
+  <!-- Bambu Lab Studio -->
+  <img src="https://cdn.simpleicons.org/bambulab/00AE42" alt="Bambu Studio" width="40" height="40"/>
+  &nbsp;
+  <!-- Orca Slicer -->
+  <img src="https://cdn.simpleicons.org/orcaslicer/009688" alt="Orca Slicer" width="40" height="40"/>
 </p>
 
 #### **Creative & Media Editing**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pr,ae,ps,au" alt="Adobe Creative Suite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>
   &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobeaudition/9999FF" alt="Audition" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" height="40"/>
 </p>
 
 #### **AI Models & Assistants**
 <p align="center">
-  <a href="https://gemini.google.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  </a>
-  <a href="https://chatgpt.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  </a>
-  <a href="https://claude.ai" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-  </a>
-  <img src="https://img.shields.io/badge/Antigravity-1A1A1A?style=flat-square&logo=rocket&logoColor=00E5FF" alt="Antigravity" />
+  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="Google Gemini" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="ChatGPT" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/D97706" alt="Claude" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/spacex/00E5FF" alt="Antigravity" width="40" height="40"/>
 </p>
 
-#### **Web Development & DevOps / Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,linux,docker,git" alt="Web and DevOps" />
-</p>
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thanadech-py&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanadech-py&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-
-</div>****
+#### **Web Development & DevOps
