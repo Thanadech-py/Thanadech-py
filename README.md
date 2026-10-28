@@ -69,8 +69,6 @@
   <!-- Bambu Lab (ใช้สีเขียวสดทางการ ไม่มืดกลืนพื้นหลัง) -->
   <img src="https://cdn.simpleicons.org/bambulab/00AE42" alt="Bambu Studio" width="40" height="40"/>
   &nbsp;
-  <!-- Orca Slicer (ใช้เวกเตอร์เครื่องพิมพ์สามมิติสีเขียวสะท้อนแสง) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/reprap.svg" alt="Orca Slicer" width="40" height="40"/>
 </p>
 
 #### **Creative & Media Editing**
@@ -80,9 +78,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
-  &nbsp;
-  <!-- Adobe Audition (ใช้โลโก้กล่องทางการ Au สีเขียว-ม่วง) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/audition/audition-original.svg" height="30" alt="Audition" style="vertical-align: middle;"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" alt="Canva" width="40" height="40"/>
 </p>
