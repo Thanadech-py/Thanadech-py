@@ -66,9 +66,11 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/autodesk/0696D7" alt="Autodesk Fusion 360" width="40" height="40"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bambulab.svg" alt="Bambu Studio" width="40" height="40"/>
+  <!-- Bambu Lab (ใช้สีเขียวสดทางการ ไม่มืดกลืนพื้นหลัง) -->
+  <img src="https://cdn.simpleicons.org/bambulab/00AE42" alt="Bambu Studio" width="40" height="40"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/reprap/00AE42" alt="Orca Slicer" width="40" height="40"/>
+  <!-- Orca Slicer (ใช้เวกเตอร์เครื่องพิมพ์สามมิติสีเขียวสะท้อนแสง) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/reprap.svg" alt="Orca Slicer" width="40" height="40"/>
 </p>
 
 #### **Creative & Media Editing**
@@ -79,7 +81,8 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/adobeaudition/9999FF" alt="Audition" width="40" height="40"/>
+  <!-- Adobe Audition (ใช้โลโก้กล่องทางการ Au สีเขียว-ม่วง) -->
+  <img src="https://img.shields.io/badge/Au-Adobe%20Audition-00E5FF?style=for-the-badge&logo=adobe&logoColor=white" height="30" alt="Audition" style="vertical-align: middle;"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" alt="Canva" width="40" height="40"/>
 </p>
@@ -88,7 +91,8 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="40" height="40"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="ChatGPT" width="40" height="40"/>
+  <!-- ChatGPT / OpenAI (เปลี่ยนไปใช้ CDN jsdelivr ที่โหลดไว ไม่บล็อก) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="ChatGPT" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/D97706" alt="Claude" width="40" height="40"/>
   &nbsp;
