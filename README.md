@@ -36,21 +36,21 @@
 
 #### **AI Models & Assistants**
 <p align="center">
-  <!-- Gemini -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gemini-Dark.svg" width="40" height="40" alt="Gemini" />
-  &nbsp;
-  <!-- Claude -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Claude-Dark.svg" width="40" height="40" alt="Claude" />
-  &nbsp;
-  <!-- ChatGPT -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ChatGPT-Dark.svg" width="40" height="40" alt="ChatGPT" />
-  &nbsp;
-  <!-- Antigravity / Gravity (Custom SVG rounded icon) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 256 256" style="vertical-align: middle;">
-    <rect width="256" height="256" rx="60" fill="#242938"/>
-    <path d="M128,40 C140,75 170,105 185,120 C195,130 200,145 195,160 C188,180 170,195 150,198 C140,200 135,190 128,180 C121,190 116,200 106,198 C86,195 68,180 61,160 C56,145 61,130 71,120 C86,105 116,75 128,40 Z" fill="#00E5FF"/>
-    <circle cx="128" cy="140" r="14" fill="#242938"/>
-  </svg>
+  <a href="https://gemini.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="40" height="40" alt="Google Gemini" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://chatgpt.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/openai/412991" width="40" height="40" alt="ChatGPT" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://claude.ai" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/anthropic/D97706" width="40" height="40" alt="Claude" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/spacex/00E5FF" width="40" height="40" alt="Antigravity" />
+  </a>
 </p>
 
 #### **Web Development & DevOps / Tools**
