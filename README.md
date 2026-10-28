@@ -33,7 +33,6 @@
 | [**MakeX Challenge Robots (Fragile & GravityShift)**](https://github.com/Thanadech-py/MakeX-2025-Fagile) | `Python` `SolidWorks` `Robotics` | Competition robotics source code and mechanical CAD for MakeX Challenge 2024 & 2025 |
 | [**Learning Hub Webpage UI**](https://github.com/Thanadech-py/Learing_hub_UI) | `React` `Vite` `Vercel` `JS` | Interactive educational web platform enhancing engineering concepts through interactive visualizations |
 | [**Assistor-ARM-Simulation**](https://github.com/Thanadech-py/Assistor-ARM-Simulation) | `ROS Noetic` `Gazebo` `CMake` `URDF` | 4-DOF robotic arm dynamic simulation, URDF modeling, and joint control in Gazebo |
-| [**Omniwheels-Control**](https://github.com/Thanadech-py/Omniwheels-Control) | `C++` `Robotics` `Kinematics` | Omnidirectional mobile base kinematics and multi-motor speed coordination algorithms |
 
 ---
 
