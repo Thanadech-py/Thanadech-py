@@ -43,28 +43,20 @@
 
 #### **Robotics, Embedded Hardware & MCUs**
 <p align="center">
-  <!-- ROS -->
   <img src="https://cdn.simpleicons.org/ros/FFFFFF" alt="ROS" width="40" height="40"/>
   &nbsp;
-  <!-- OpenCV -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   &nbsp;
-  <!-- Raspberry Pi -->
   <img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" alt="Raspberry Pi" width="40" height="40"/>
   &nbsp;
-  <!-- ESP32 / Espressif -->
   <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="40" height="40"/>
   &nbsp;
-  <!-- Teensy 4.1 / PJRC Microchip -->
-  <img src="https://cdn.simpleicons.org/microchip/FFFFFF" alt="Teensy 4.1" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Teensy_4.1-1793D1?style=for-the-badge&logo=arm&logoColor=white" height="30" alt="Teensy 4.1" style="vertical-align: middle;"/>
   &nbsp;
-  <!-- Arduino -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   &nbsp;
-  <!-- PlatformIO -->
   <img src="https://cdn.simpleicons.org/platformio/F38630" alt="PlatformIO" width="40" height="40"/>
   &nbsp;
-  <!-- Teleplot (Telemetry / Waveform Plotter) -->
   <img src="https://cdn.simpleicons.org/speedtest/00E5FF" alt="Teleplot" width="40" height="40"/>
 </p>
 
@@ -74,4 +66,51 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/autodesk/0696D7" alt="Autodesk Fusion 360" width="40" height="40"/>
   &nbsp;
-  <img src="
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bambulab.svg" alt="Bambu Studio" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/reprap/00AE42" alt="Orca Slicer" width="40" height="40"/>
+</p>
+
+#### **Creative & Media Editing**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobeaudition/9999FF" alt="Audition" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" alt="Canva" width="40" height="40"/>
+</p>
+
+#### **AI Models & Assistants**
+<p align="center">
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="ChatGPT" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/D97706" alt="Claude" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/spacex/00E5FF" alt="Antigravity" width="40" height="40"/>
+</p>
+
+#### **Web Development & DevOps / Tools**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thanadech-py&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanadech-py&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+
+</div>
